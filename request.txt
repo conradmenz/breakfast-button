@@ -1,0 +1,1 @@
+https://graph.microsoft.com/v1.0/me/drive/items/01Z7YOCX3WYSBAQHGRXVFLNVC4HU2D7KYE/workbook/worksheets('{00000000-0001-0000-0000-000000000000}')/Range(address='Brötchenliste!C15')
